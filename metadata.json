@@ -1,0 +1,6 @@
+{
+  "name": "ZenMind",
+  "description": "An AI-powered mood journal and mindful reflection companion to support mental well-being.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
